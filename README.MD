@@ -33,21 +33,11 @@ seguem abaixo.
 ## 🧠 Prompts
 
 
-# ChatGPT
+| Ação      | Prompt                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**   | Crie 5 variações de títulos curtos e impactantes para um eBook sobre ReactJS, dentro do nicho de programação (subnicho: JavaScript/ReactJS). Cada título deve soar épico, ter inspiração em filmes ou séries de temática nerd (ex.: Star Wars, Matrix, Senhor dos Anéis, etc.) e transmitir autoridade e empolgação para o público-alvo desenvolvedor.                                                             |
+| **Conteúdo** | Crie um capítulo de eBook sobre ReactJS, com o tema épico de **“O Trono de Componentes: A Ascensão do ReactJS”**. O texto deve seguir as regras abaixo:<br><br>{REGRAS}:<br>• Explicar os principais componentes e conceitos centrais do ReactJS de forma simples, clara e envolvente.<br>• Usar uma linguagem didática e épica, como se o leitor estivesse embarcando em uma jornada.<br>• Trazer exemplos de código em contextos reais, fáceis de entender.<br>• Cada tópico deve ter um título sugestivo e criativo, inspirado no tema de fantasia/épico, mas mantendo o foco técnico.<br>• O conteúdo deve ser enxuto, objetivo e prático, sem enrolação.<br>• Sempre mostrar boas práticas e explicar por que o exemplo é útil na vida real. |
 
-| Ação     | Prompt                                                                                                                                                                                                                                                                     |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Título**   | Crie 5 variações de títulos curtos e impactantes para um eBook sobre ReactJS, dentro do nicho de programação (subnicho: JavaScript/ReactJS). Cada título deve soar épico, ter inspiração em filmes ou séries de temática nerd (ex.: Star Wars, Matrix, Senhor dos Anéis, etc.) e transmitir autoridade e empolgação para o público-alvo desenvolvedor. |
-| **Conteúdo** | Crie um capítulo de eBook sobre ReactJS, com o tema épico de **“O Trono de Componentes: A Ascensão do ReactJS”**. O texto deve seguir as regras abaixo:  
-
-{REGRAS}  
-
-- Explicar os principais componentes e conceitos centrais do ReactJS de forma simples, clara e envolvente.  
-- Usar uma linguagem didática e épica, como se o leitor estivesse embarcando em uma jornada.  
-- Trazer exemplos de código em contextos reais, fáceis de entender.  
-- Cada tópico deve ter um título sugestivo e criativo, inspirado no tema de fantasia/épico, mas mantendo o foco técnico.  
-- O conteúdo deve ser enxuto, objetivo e prático, sem enrolação.  
-- Sempre mostrar boas práticas e explicar por que o exemplo é útil na vida real. |
 
 
 Midjourney：
