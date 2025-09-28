@@ -49,7 +49,8 @@ ImageFX：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ImageFX
+- Imagens dos códigos geradas via Snappify
 
 ## 📚 Materiais
 
