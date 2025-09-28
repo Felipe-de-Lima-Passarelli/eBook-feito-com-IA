@@ -28,7 +28,7 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/) 
 - [ImageFX](https://labs.google/fx/pt/tools/image-fx)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-- [Snappify] (https://snappify.com)
+- [Snappify](https://snappify.com)
 
 ## 🧠 Prompts
 
