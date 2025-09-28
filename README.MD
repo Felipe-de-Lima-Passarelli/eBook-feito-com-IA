@@ -26,8 +26,9 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [ImageFX](https://labs.google/fx/pt/tools/image-fx)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Snappify] (https://snappify.com)
 
 ## 🧠 Prompts
 
