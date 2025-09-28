@@ -40,11 +40,11 @@ seguem abaixo.
 
 
 
-Midjourney：
+ImageFX：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Trono tecnológico futurista, design limpo, símbolos de código azul brilhantes, fundo minimalista, alto contraste, iluminação cinematográfica, estilo de arte digital, detalhes ultra nítidos, tema épico de programação fantástica. |
 
 ## ✨ Features
 
