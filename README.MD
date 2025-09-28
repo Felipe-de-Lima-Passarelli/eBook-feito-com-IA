@@ -40,7 +40,8 @@ seguem abaixo.
 | **Título**   | Crie 5 variações de títulos curtos e impactantes para um eBook sobre ReactJS, dentro do nicho de programação (subnicho: JavaScript/ReactJS). Cada título deve soar épico, ter inspiração em filmes ou séries de temática nerd (ex.: Star Wars, Matrix, Senhor dos Anéis, etc.) e transmitir autoridade e empolgação para o público-alvo desenvolvedor. |
 | **Conteúdo** | Crie um capítulo de eBook sobre ReactJS, com o tema épico de **“O Trono de Componentes: A Ascensão do ReactJS”**. O texto deve seguir as regras abaixo:  
 
-### Regras
+{REGRAS}  
+
 - Explicar os principais componentes e conceitos centrais do ReactJS de forma simples, clara e envolvente.  
 - Usar uma linguagem didática e épica, como se o leitor estivesse embarcando em uma jornada.  
 - Trazer exemplos de código em contextos reais, fáceis de entender.  
