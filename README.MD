@@ -33,12 +33,20 @@ seguem abaixo.
 ## 🧠 Prompts
 
 
-ChatGPT：
+# ChatGPT
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| Ação     | Prompt                                                                                                                                                                                                                                                                     |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**   | Crie 5 variações de títulos curtos e impactantes para um eBook sobre ReactJS, dentro do nicho de programação (subnicho: JavaScript/ReactJS). Cada título deve soar épico, ter inspiração em filmes ou séries de temática nerd (ex.: Star Wars, Matrix, Senhor dos Anéis, etc.) e transmitir autoridade e empolgação para o público-alvo desenvolvedor. |
+| **Conteúdo** | Crie um capítulo de eBook sobre ReactJS, com o tema épico de **“O Trono de Componentes: A Ascensão do ReactJS”**. O texto deve seguir as regras abaixo:  
+
+### Regras
+- Explicar os principais componentes e conceitos centrais do ReactJS de forma simples, clara e envolvente.  
+- Usar uma linguagem didática e épica, como se o leitor estivesse embarcando em uma jornada.  
+- Trazer exemplos de código em contextos reais, fáceis de entender.  
+- Cada tópico deve ter um título sugestivo e criativo, inspirado no tema de fantasia/épico, mas mantendo o foco técnico.  
+- O conteúdo deve ser enxuto, objetivo e prático, sem enrolação.  
+- Sempre mostrar boas práticas e explicar por que o exemplo é útil na vida real. |
 
 
 Midjourney：
